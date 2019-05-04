@@ -1,0 +1,21 @@
+.post_wrapper{
+
+}
+hr{
+    height: 1px;
+    background: 'black';
+}
+.comment{
+    border: 1px solid #CCC;
+    padding: 10px;
+    border-radius: 10px;
+}
+.form-comment{
+    padding: 10px;
+    border-top: 2px solid #CCC;
+    border-bottom: 2px solid #CCC;
+}
+.form-comment h2{
+    margin: 0;
+    font-size: 16px;
+}
